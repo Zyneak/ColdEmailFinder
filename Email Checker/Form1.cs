@@ -12,9 +12,6 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Support;
 using OpenQA.Selenium.Support.UI;
 using System.Diagnostics;
-using AngleSharp.Html.Parser;
-using AngleSharp.Html.Dom;
-using AngleSharp.Dom;
 using System.Threading;
 using System.IO;
 
