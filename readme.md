@@ -7,6 +7,6 @@ Cold Email Finder or CEF is a tool for job seekers which enables them to find an
 
 ### Todos
 
- [ ] Allow for multuiple job listings at once 
- [ ] Clean up UI
+- [ ] Allow for multuiple job listings at once 
+- [ ] Clean up UI
 
